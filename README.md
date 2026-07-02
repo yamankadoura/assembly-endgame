@@ -16,11 +16,14 @@ https://yamankadoura.github.io/assembly-endgame/
 
 ---
 
-## 📸 DEMO
+## 📸 Preview
 
-![Assembly Endgame Screenshot](./assets/run_example.gif)
+![Assembly Endgame Screenshot](./assets/screenshot.png)
 
 ---
+
+## 📸 DEMO
+![Assembly Endgame Demo](./assets/run_example.gif)
 
 
 
