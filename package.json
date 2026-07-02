@@ -1,9 +1,9 @@
 {
+  "homepage": "https://yamankadoura.github.io/assembly-endgame",
   "name": "assembly-endgame",
   "private": true,
   "version": "0.0.0",
   "type": "module",
-  "homepage": "https://yamankadoura.github.io/assembly-endgame",
   "scripts": {
     "dev": "vite",
     "build": "vite build",
